@@ -1,8 +1,4 @@
----
-
 # TrekMate
-
-![trekmate](https://github.com/user-attachments/assets/a9b97519-1912-44b4-a6b8-d3a86d4c10d9)
 
 TrekMate is a trekking solutions chatbot that leverages Natural Language Processing (NLP) techniques to answer general queries about some of the best treks in India. Whether you're planning your itinerary or looking for specific trek-related information, TrekMate is here to assist trekkers across the country with quick and reliable solutions.
 
