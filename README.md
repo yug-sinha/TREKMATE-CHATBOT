@@ -1,8 +1,8 @@
-Here's a README file for your "TrekMate" repository:
-
 ---
 
 # TrekMate
+
+![trekmate](https://github.com/user-attachments/assets/a9b97519-1912-44b4-a6b8-d3a86d4c10d9)
 
 TrekMate is a trekking solutions chatbot that leverages Natural Language Processing (NLP) techniques to answer general queries about some of the best treks in India. Whether you're planning your itinerary or looking for specific trek-related information, TrekMate is here to assist trekkers across the country with quick and reliable solutions.
 
@@ -53,6 +53,11 @@ Ensure you have Python and Node.js installed on your system.
 
 Now, your site should be live, and you can interact with TrekMate to find out your trekking solutions!
 
+## Working Demonstration
+To help you get started, here's a video demonstration showing how to run TrekMate. 
+
+https://github.com/user-attachments/assets/84c6ba34-174d-46f1-a5bb-af7b9a4b0c19
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -61,6 +66,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License.
 
----
 
-You can modify this as per your needs.
